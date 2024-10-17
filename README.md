@@ -1,23 +1,23 @@
 # Hi there 👋 I'm Faisal, a Full Stack Software Engineer
 
-I am a passionate and results-driven Full Stack Engineer with expertise in building modern web applications, specializing in technologies like *PHP, **Ruby on Rails, **React, **NodeJS, *.NET*, and **Tailwind CSS*. With a strong focus on clean, maintainable code and scalable architecture, I aim to deliver top-tier solutions for businesses and individuals alike.
+I am a passionate and results-driven Full Stack Engineer with expertise in building modern web applications, specializing in technologies like **Ruby on Rails**, **React**, **NodeJS**, **.NET**, and **Tailwind CSS**. With a strong focus on clean, maintainable code and scalable architecture, I aim to deliver top-tier solutions for businesses and individuals alike.
 
 ---
 
 ### 🛠 Tech Stack:
-- *Languages*: Ruby, JavaScript, TypeScript, NodeJs C#, SQL
-- *Frameworks*: Ruby on Rails, React, .NET Core, Express.js
-- *Styling*: Tailwind CSS, Bootstrap, Sass
-- *Tools & Platforms*: Git, Docker, Kubernetes, Heroku, AWS, CI/CD, PostgreSQL, MySQL
-- *Testing*: RSpec, Jest, Capybara
+- **Languages**: Ruby, JavaScript, TypeScript, NodeJs C#, SQL
+- **Frameworks**: Ruby on Rails, React, .NET Core, Express.js
+- **Styling**: Tailwind CSS, Bootstrap, Sass
+- **Tools & Platforms**: Git, Docker, Kubernetes, Heroku, AWS, CI/CD, PostgreSQL, MySQL
+- **Testing**: RSpec, Jest, Capybara
 
 ---
 
 ### 📈 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalM008&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalM008&theme=gotham&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalM008&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalM008&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalM008&theme=gotham&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalM008&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
